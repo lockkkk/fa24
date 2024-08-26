@@ -17,7 +17,7 @@ The course project is an open-ended research project in networking done in group
 
 ### Project ideas
 
-We will post some ideas here on Aug 29 (Wed): Project ideas
+We will post some ideas [here](https://docs.google.com/document/d/1Xg-3SyGgReQNZsVCMINAjBHkuqiwNQ7Vx6vSeaeMNEc/edit?usp=sharing). 
 
 ***
 
@@ -26,16 +26,16 @@ Describe the project idea/application, how it relates to the course material, wh
 
 In your proposal, include three types of goals: 75% goals, 100% goals, and 125% goals. Think of these as the equivalent of a B, an A, and a "wow!" grade. The goals can be dependent or independent of the previous goals.
 
-Consider also providing answers to the Heilmeier QuestionsLinks to an external site. in your proposal, as appropriate.
+Consider also providing answers to the [Heilmeier Questions](https://www.darpa.mil/work-with-us/heilmeier-catechism) in your proposal, as appropriate.
 
-Please use the ACM HotNets Latex templateLinks to an external site. for the proposal and final report.
-https://conferences.sigcomm.org/hotnets/2024/docs/hotnets24-template.zip
+Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotnets/2024/docs/hotnets24-template.zip) for the proposal and final report.
+
 
 ***
 
 ### Midterm checkpoint meeting
 
-Each project team is required to schedule a checkpoint meeting with the instructor on Oct 30 and 31. The purpose of this meeting is to provide an early feedback on your progress to help ensure that your final report is great. Please schedule the meeting using this link
+Each project team is required to schedule a checkpoint meeting with the instructor on Oct 25. The purpose of this meeting is to provide an early feedback on your progress to help ensure that your final report is great.
 
 ***  
 
@@ -46,6 +46,7 @@ Each project team is required to schedule a checkpoint meeting with the instruct
 
 ### Important dates
 
-* Proposal (2 pages): Sep 27
-* Final report (6 pages) and presentation: Dec 4
-* Please use the ACM HotNets Latex templateLinks to an external site. for the proposal and final report.
+* Proposal (2 pages): Sep 27.
+* In-class project presentation: Dec 3 and 5.
+* Final report (6 pages): Dec 6.
+* Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotnets/2024/docs/hotnets24-template.zip) for the proposal and final report.

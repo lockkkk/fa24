@@ -17,7 +17,7 @@ The course project is an open-ended research project in networking done in group
 
 ### Project ideas
 
-We will post some ideas [here](https://docs.google.com/document/d/1Xg-3SyGgReQNZsVCMINAjBHkuqiwNQ7Vx6vSeaeMNEc/edit?usp=sharing). 
+We will post some ideas [here](#). 
 
 ***
 

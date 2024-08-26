@@ -48,14 +48,14 @@ title: Schedule
         {% if lecture.recitation %}
             <br />{{ lecture.recitation }}<br />
         {% endif %}
-        [
+        
             {% if lecture.slides %}
-              <a href="{{ lecture.slides }}" target="_blank">slides</a>
+              <a href="{{ lecture.slides }}" target="_blank">[ slides ]</a>
             {% else %}
-              slides
+              
             {% endif %}
             {% if lecture.slides2 %}
-              | <a href="{{ lecture.slides2 }}" target="_blank">slides 2</a>
+              | <a href="{{ lecture.slides2 }}" target="_blank">[ slides 2 ]</a>
             {% endif %}
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
@@ -71,13 +71,22 @@ title: Schedule
             {% if lecture.notes2 %}
               | <a href="{{ lecture.notes2 }}" target="_blank">notes 2</a>
             {% endif %}
-        ]
+        
     </td>
     <td>
         {% if lecture.readings %}
         <ul>
         {% for reading in lecture.readings %}
             <li>{{ reading }}</li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+    </td>
+    <td>
+        {% if lecture.presenters %}
+        <ul>
+        {% for lead in lecture.presenters %}
+            <li>{{ lead }}</li>
         {% endfor %}
         </ul>
         {% endif %}

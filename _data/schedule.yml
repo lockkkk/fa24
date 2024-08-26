@@ -1,340 +1,416 @@
-- date: T 01/16
+- date:
+  lecturer:
+  title: >
+    <strong>Part 0: Introduction and Design Philosophy </strong>
+  logistics:
+
+- date: T 08/27
   lecturer: 
   title: >
     <strong>Course overview & Intro to computer networks</strong> 
-  slides: https://drive.google.com/file/d/1-6rQfvLFvTjhLC14eMuDkZ8sRHe439_X/view?usp=drive_link
+  slides:
   video: 
   notes:
   readings:
-    - P&D 1.1 - 1.2.2
+    - <a href="http://ccr.sigcomm.org/online/files/p83-keshavA.pdf">HowToRead</a> 
+  presenters:
+    - Daehyeok  
   logistics:
-    - Assignment 0 is out
-
-- date: Th 01/18
+    - <a href="https://forms.gle/srJizCKtCZq3kabH6">Fill out the survey</a> (by 08/30, Friday)
+- date: Th 08/29
   lecturer: 
   title: >
-    <strong>Design requirements</strong>
-  slides: https://drive.google.com/file/d/1-K_bSeYhUbiSYROW_2v_3SE_w-0DqRgB/view?usp=drive_link
+    <strong>Design principles</strong>
+  slides:
   video: 
   notes:
   readings:
-  - P&D 1.2.3 - 1.2.5
+  - <a href="http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf">[R]DesignPhilosophy</a>
+  - <a href="https://www.youtube.com/watch?v=qX-ojw1gLmE">[O]ClarkTalk</a>
+  - <a href="http://www0.cs.ucl.ac.uk/staff/M.Handley/papers/only-just-works.pdf">[O]WhyJustWork</a>
+  - P&D 1.3
+  - P&D 3.1-3.3
+  presenters:
+    - Daehyeok  
   logistics:
 
-- date: T 01/23
+- date: T 09/03
   lecturer:
   title: >
-    <strong>Architecture</strong>
+    <strong>End-to-end argument</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1FkVQeiHj4sr5Vzdmk_97fvpSua87b_DA/view?usp=drive_link
+  slides:
+  notes: 
+  video: 
+  presenters:
+    - Daehyeok
+  readings:
+  - <a href="https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf">[R]EndToEnd</a>
+  logistics:
+
+- date: Th 09/05
+  lecturer:
+  title: >
+    <strong>Project description and suggested topics</strong>
+  recitation: 
+  slides:  
   notes: 
   video: 
   readings:
-  - P&D 1.3 
   logistics:
 
-- date: Th 01/25
+- date: T 09/10
   lecturer:
-  title: >
-    <strong>Performance metrics & Sockets </strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1Fq7x02fZ9qw7xnjSuLp1QXXB-ueR9WKu/view?usp=drive_link 
-  notes: 
-  video: 
-  readings:
-  - P&D 1.4 - 1.5
-  logistics:
-  - Assignment 0 is due <br/>
-  - Assignment 1 is out
-
-- date: T 01/30
-  lecturer:
-  title: >
-    <strong>Link layer: Encoding & Framing</strong>
-  recitation: 
-  slides:  https://drive.google.com/file/d/1G6V-d8kw_3KYD9zlKWILsi8NSNDK-I2F/view?usp=drive_link
-  notes: 
-  video: 
-  readings:
-  - P&D 2.1 - 2.3
-  logistics:
-
-- date: Th 02/01
-  lecturer:
-  title: >
-    <strong>Error Detection & Reliability</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1GKgwSDPG5YgQrYEgoVGluImXbE2VV8KU/view?usp=drive_link
-  notes: 
-  video: 
-  readings:
-  - P&D 2.4 - 2.5
-  logistics:
-
-- date: T 02/06
-  lecturer:
-  title: >
-    <strong>Ethernet</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1GhE8FlKR23gqb7sbvfgS-A629J3JVb4m/view?usp=drive_link
-  notes: 
-  video: 
-  readings:
-  - P&D 2.6
-  logistics:
-
-- date: Th 02/08
-  lecturer:
-  title: >
-    <strong>Wireless Links</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1GvEtqco3EXRkTxbCZn33SnWPPFPQUsEx/view?usp=drive_link
-  notes: 
-  video: 
-  readings:
-  - P&D 2.7
-  logistics:
-
-- date: T 02/13
-  lecturer:
-  title: >
-    <strong>P4 programming</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1GxoCLCfH7m1oe-KBi-xgYEziEgwVIUyV/view?usp=drive_link
-  notes: 
-  video: 
-  readings:
-  - <a href="https://staging.p4.org/p4-spec/docs/P4-16-v1.2.4.html">P4 language spec</a>
-  logistics:
-  - Assignment 1 is due
-  - Assignment 2 is out
-
-- date: Th 02/15
   quiz: >
-    <strong>Quiz 1</strong>
-  logistics:
-
-- date: T 02/20
-  lecturer:
-  title: >
-    <strong>Switching</strong>
+    <strong>No Class</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1H4HF9jL_YARi1_UPbCYNQHw3jUUif1Yc/view?usp=drive_link
   notes: 
   video: 
-  readings:
-  - P&D 3.1 and 3.2
   logistics:
 
-- date: Th 02/22
+- date:
   lecturer:
   title: >
-    <strong>Internet protocol (IP)</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1HB_ul0Kr5eWLYgBJrPbPt1NQcNLORhNi/view?usp=drive_link
-  notes: 
-  video: 
-  readings:
-  - P&D 3.3.1 -- 3.3.4
+    <strong>Part 1: Control Plane</strong>
   logistics:
 
-- date: T 02/27
-  lecturer:
-  title: >
-    <strong>Subnetting & ARP/DHCP/ICMP</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1HOVn3wzSwf5qEj_FjTNEp7MUfWk9vhCt/view?usp=drive_link
-  notes: 
-  video: 
-  readings:
-  - P&D 3.3.5 -- 3.3.8
-  logistics:
-
-- date: Th 02/29
-  lecturer:
-  title: >
-    <strong>Intra-domain routing</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1HlIPawQRvH5nQhUJUu9VXPdKL0TVYFhh/view?usp=drive_link
-  notes: 
-  video: 
-  readings:
-  - P&D 3.4
-  logistics:
-
-- date: T 03/05
+- date: Th 09/12
   lecturer:
   title: >
     <strong>Inter-domain routing</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1IV4mc5SlaM65BqEs8W6RWo96YYwonQUl/view?usp=drive_link
+  slides:  
   notes: 
   video: 
   readings:
+  - <a href="https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/gao01.pdf">[R]Gao01</a>
+  - <a href="http://nms.csail.mit.edu/6.829-f05/lectures/L4-routing.pdf">[O]MITLecNote</a>
   - P&D 4.1
   logistics:
-  - Assignment 2 is due
 
-- date: Th 03/07
+- date: T 09/17
   lecturer:
   title: >
-    <strong>UDP and TCP basics</strong>
+    <strong>Software-defined networking</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1IYk9TXiSNLIsPmP9pejchD5yfPnicDn6/view?usp=drive_link
+  slides: 
   notes: 
   video: 
   readings:
-  - P&D 5.1 -- 5.2.3
-  logistics:
-  - Assignment 3 is out
-
-- date: T 03/12
-  lecturer:
-  quiz: >
-    <strong>Spring break - No Classes</strong>
-  logistics:
-
-- date: Th 03/14
-  lecturer:
-  quiz: >
-    <strong>Spring break - No Classes</strong>
+  - <a href="http://ccr.sigcomm.org/online/files/fp298-casado.pdf">[R]Ethane</a>
+  - <a href="http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf">[R]OpenFlow</a>
+  - <a href="https://youtu.be/YHeyuD89n1Y?si=4VpmTS1cD53fwoZq">[R]ShenkerTalk</a> (no review)
+  - <a href="https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf">[O]RoadToSDN</a>
+  - <a href="https://ccronline.sigcomm.org/wp-content/uploads/2019/10/acmdl19-347.pdf">[O]EthaneToSDN</a>
+  - SDN 1.1-1.3
   logistics:
 
 
-- date: T 03/19
+- date: Th 09/19
   lecturer:
   title: >
-    <strong>TCP sliding window</strong>
+    <strong>SDN use case: Network virtualization</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1IiEA70Hd_FFXg3UdZCdIZUT8lsvZ-RqL/view?usp=drive_link 
+  slides: 
   notes: 
   video: 
   readings:
-  - P&D 5.2
+  - <a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-koponen.pdf">[R]NVP</a>
+  - <a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf">[R]Andromeda</a>
+  - SDN 2.1
   logistics:
+  - Submit a proposal on Canvas
 
-- date: Th 03/21
-  lecturer:
-  quiz: >
-    <strong>Quiz 2</strong>
-  logistics:
-
-- date: T 03/26
+- date:
   lecturer:
   title: >
-    <strong>TCP sliding window (cont'd) and Resource allocation</strong>
+    <strong>Part 2: Data Plane</strong>
+  logistics:
+
+- date: T 09/24
+  lecturer:
+  title: >
+    <strong>Router design</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1J5gsd8fntYBg82PtA50c-3JZv9aFqkFq/view?usp=drive_link 
+  slides: 
+  notes: 
+  video: 
+  readings: 
+  - <a href="http://tiny-tera.stanford.edu/~nickm/papers/cisco_fasts_wp.pdf">[R]McKeown97</a>
+  - <a href="https://youtu.be/pRJZE0C77SQ?si=RINcwe6SHF-Mqu_E">[R]ASICforNetEng</a> (no review)
+  - P&D 3.5.2
+  logistics:
+
+- date: Th 09/26
+  lecturer:
+  title: >
+    <strong>Software routers</strong>
+  recitation: 
+  slides: 
   notes: 
   video: 
   readings:
-  - P&D 6.2
+  - <a href="https://pdos.csail.mit.edu/papers/click:tocs00/paper.pdf">[R]Click</a>
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/1629575.1629578">[R]RoutBricks</a>
+  - P&D 3.5.1
   logistics:
 
-- date: Th 03/28
+- date: T 10/01
   lecturer:
   title: >
-    <strong>Queuing disciplines and Congestion control (1)</strong>
+    <strong>Middleboxes and NFV</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1J6GUujejPAfsCVhW9e8GpidI7qQ508RN/view?usp=drive_link
+  slides: 
   notes: 
   video: 
   readings:
+  - <a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final96.pdf">[R]CoMb</a>
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/2342356.2342359">[O]APLOMB</a>
+  - <a href="https://portal.etsi.org/nfv/nfv_white_paper.pdf">ESTI-WP</a>
+  logistics:
+
+- date: Th 10/03
+  lecturer:
+  title: >
+    <strong>Programmable switches and P4</strong>
+  recitation: 
+  slides:
+  notes: 
+  video: 
+  readings:
+  - <a href="http://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf">[R]RMT</a>
+  - <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">[R]P4</a>
+  logistics:
+
+- date: T 10/08
+  lecturer:
+  title: >
+    <strong>Applications on programmable switches</strong>
+  recitation: 
+  slides:
+  notes: 
+  video: 
+  readings:
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/3132747.3132764">[R]NetCache</a>
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/3230543.3230555">[R]Sonata</a>
+  logistics:
+
+- date: Th 10/10
+  lecturer:
+  title: >
+    <strong>Smart NICs and applications</strong>
+  recitation: 
+  slides: 
+  notes: 
+  video: 
+  presenters: Jiaxin
+  readings:
+  - <a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf">[R]AccelNet</a>
+  - TBD
+  logistics:
+  - Sign up for a project milestone meeting
+
+
+- date:
+  lecturer:
+  title: >
+    <strong>Part 3: Resource Management</strong>
+  logistics:
+
+- date: T 10/15
+  lecturer:
+  title: >
+    <strong>Congestion control</strong>
+  recitation: 
+  slides:
+  notes: 
+  video: 
+  readings:
+  - <a href="https://ee.lbl.gov/papers/congavoid.pdf">[R]VJ88</a>
+  - <a href="https://queue.acm.org/detail.cfm?id=3022184">[R]BBR</a>
   - P&D 6.3
   logistics:
-  - Assignment 3 is due
-  - Assignment 4 is out
 
-- date: T 04/02
+- date: Th 10/17
   lecturer:
   title: >
-    <strong>Congestion control (2)</strong>
+    <strong>Router-based resource allocation</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1Jj0WqoUtZt-ud7nRtuEN9NsK9PcH6fzH/view?usp=drive_link
+  slides: 
   notes: 
   video: 
   readings:
-  - P&D 6.3 -- 6.4
+  - <a href="https://cseweb.ucsd.edu/classes/wi01/cse222/papers/demers-fq-ire90.pdf">[R]FQ</a>
+  - <a href="http://web.mit.edu/pifo/pifo-sigcomm.pdf">[R]PIFO</a>
+  - P&D 6.1-6.2
   logistics:
 
-
-- date: Th 04/04
+- date: T 10/22
   lecturer:
   title: >
-    <strong>Domain name system (DNS)</strong>
+    <strong>Data center scheduling</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1Joko-wfeGvGDoD2CcnQ0RT_21TuXwMGK/view?usp=drive_link
+  slides:
   notes: 
   video: 
-  readings: P&D 9.3.1
+  readings:
+  - <a href="https://www.mosharaf.com/wp-content/uploads/varys-sigcomm14.pdf">[R]CoFlow</a>
+  - <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2010/October/1851275-1851222.pdf">[O]c-Through</a>
   logistics:
 
-- date: T 04/09
+- date: Th 10/24
   lecturer:
   title: >
-    <strong>Web and Email</strong>
+    <strong>Data center transport</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1JtWzOO6FNsymqVbkXWpTh7BmrAMcYHZp/view?usp=drive_link
+  slides:
   notes: 
   video: 
-  readings: P&D 9.1
+  readings:
+  - <a href="https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf">[R]DCTCP</a>
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/2740070.2626309">[O]FastPass</a>
+  - <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/rdma_sigcomm2016.pdf">[O]RoCEatScale</a>
+  - <a href="https://dlnext.acm.org/doi/pdf/10.1145/3341302.3342085">[O]HPCC</a>
   logistics:
 
-- date: Th 04/11
+- date:
   lecturer:
   title: >
-    <strong>Content distribution network (CDN)</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1K2hlilymN8wT59SxJyU8quXM4GTLRSmo/view?usp=drive_link
-  notes: 
-  video: 
-  readings: P&D 9.4.3
+    <strong>Part 4: More Recent Topics</strong>
   logistics:
-  - Assignment 4 is due
-  - Assignment 5 is out
 
-- date: T 04/16
+- date: T 10/29
   lecturer:
   title: >
-    <strong>Peer-to-peer (P2P) networks</strong>
+    <strong>Kernel-bypass networking</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1KJr_oSt0D5oNo-T7iCy-q-nLZ0oz2cKu/view?usp=drive_link
+  slides:
   notes: 
-  video: 
-  readings: P&D 9.4.2
+  video:
+  presenters: Jiaxin 
+  readings:
+  - <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf">[R]Arrakis</a>
+  - <a href="https://www.usenix.org/system/files/nsdi19-kalia.pdf">[R]eRPC</a>
   logistics:
 
-- date: Th 04/18
+- date: Th 10/31
   lecturer:
   title: >
-    <strong>P2P (cont'd) and Network security (1)</strong>
+    <strong>Intra-host networking</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1KetWs6Nrnm6S_acq_LruHh6hL87cwC6H/view?usp=drive_link
+  slides: 
   notes: 
   video: 
-  readings: P&D 8.1--8.2
+  presenters: Jiaxin
+  readings:
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/3651890.3672271">[R]HostNet</a>
   logistics:
 
-- date: T 04/23
-  lecturer:
-  title: >
-    <strong>Network security (2)</strong>
-  recitation: 
-  slides: https://drive.google.com/file/d/1KrzsV30GCQwOZ7pV74KiG2rBSFDITCf-/view?usp=drive_link
-  notes: 
-  video: 
-  readings: P&D 8.3--8.5
-  logistics:
-
-- date: Th 04/25
+- date: T 11/05
   lecturer:
   quiz: >
-    <strong>Quiz 3</strong>
+    <strong>No Class</strong>
   logistics:
 
-- date: M 04/29
+- date: Th 11/07
+  lecturer:
+  title: >
+    <strong>Application-layer networking</strong>
+  recitation: 
+  slides: 
+  notes: 
+  video: 
+  readings:
+  - <a href="https://www.usenix.org/system/files/osdi23-saokar.pdf">[R]ServiceRouter</a>
+  logistics:
+
+- date: T 11/12
+  lecturer:
+  title: >
+    <strong>Generative AI for networking</strong>
+  recitation: 
+  slides:
+  notes: 
+  video: 
+  readings:
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/3544216.3544251">[R]NetShare</a>
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/3651890.3672225">[R]Zoom2Net</a>
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/3639037">[O]NetDiffusion</a>
+  logistics:
+
+- date: Th 11/14
+  lecturer:
+  title: >
+    <strong>Cellular network architecture</strong>
+  recitation: 
+  slides:
+  notes: 
+  video: 
+  presenters: Daehyeok
+  readings:
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3472894">[R]Concordia</a>
+  - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3473336">[R]CellBricks</a>
+  logistics:
+
+- date:
+  lecturer:
+  title: >
+    <strong>Part 4: Project Weeks</strong>
+  logistics:
+
+- date: T 11/19
+  lecturer:
+  title: >
+    <strong>Working on projects (Office hour)</strong>
+  recitation: 
+  slides:
+  notes: 
+  video: 
+  readings:
+  logistics:
+
+- date: Th 11/21
+  lecturer:
+  title: >
+    <strong>Working on projects (Office hour)</strong>
+  recitation: 
+  slides: 
+  notes: 
+  video: 
+  readings:
+  logistics:
+
+- date: T 11/26
   lecturer:
   quiz: >
-    <strong></strong>
+    <strong>No Class</strong>
   logistics:
-  - Assignment 5 is due
+
+- date: Th 11/28
+  lecturer:
+  quiz: >
+    <strong>No Class</strong>
+  logistics:
+
+- date: T 12/03
+  lecturer:
+  title: >
+    <strong>Project presentation</strong>
+  recitation: 
+  slides: 
+  notes: 
+  video: 
+  readings:
+  logistics:
+
+- date: Th 12/05
+  lecturer:
+  title: >
+    <strong>Project presentation</strong>
+  recitation: 
+  slides: 
+  notes: 
+  video: 
+  readings:
+  logistics:
+  - Submit a report and slides on Canvas (by 12/6, Friday)

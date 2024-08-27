@@ -20,8 +20,8 @@ title: Logistics
 **Paper reading response**
 <br/>
 The reading list is posted on the [schedule](/fa24/schedule) page. You are required to
-post reading a response to [Ed
-discussion](https://edstem.org/us/courses/61972/) by 6PM the day
+post a response to [Ed
+discussion](https://edstem.org/us/courses/61972/) by 11:59PM the day
 before the class. The response include a short summary of each paper, and your
 opinion of the paper.
 

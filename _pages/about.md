@@ -32,7 +32,7 @@ computer networks or networked systems.
 * Inter-domain routing
 * Congestion control
 * Data centers
-* Software-defined networking 
+* Software-defined networking
 * Programmable data plane
 * ML for networking
 * Application-layer networking (e.g., Service mesh)

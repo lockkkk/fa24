@@ -84,6 +84,7 @@
   video: 
   readings:
   - <a href="https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/gao01.pdf">[R]Gao01</a>
+  - <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-fogel.pdf">[O]Batfish</a>
   - <a href="http://nms.csail.mit.edu/6.829-f05/lectures/L4-routing.pdf">[O]MITLecNote</a>
   - P&D 4.1
   logistics:
@@ -246,7 +247,7 @@
   - P&D 6.1-6.2
   logistics:
   - Sign up for a project milestone meeting
-  
+
 - date: T 10/22
   lecturer:
   title: >

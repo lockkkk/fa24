@@ -19,7 +19,7 @@ objectives of this course are:
 
 The course is structured around lectures by the instructor and paper
 readings/presentations by the students with open discussion. Students will form
-a project group (two or three students) and conduct a research project on
+a project group (one or two students) and conduct a research project on
 computer networks or networked systems.
 
 

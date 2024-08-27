@@ -28,7 +28,7 @@ In your proposal, include three types of goals: 75% goals, 100% goals, and 125% 
 
 Consider also providing answers to the [Heilmeier Questions](https://www.darpa.mil/work-with-us/heilmeier-catechism) in your proposal, as appropriate.
 
-Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotnets/2024/docs/hotnets24-template.zip) for the proposal and final report.
+Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotnets/2024/docs/hotnets24-template.zip) for the proposal.
 
 
 ***

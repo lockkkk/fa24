@@ -11,7 +11,7 @@ title: Projects
 
 ### Overview
 
-The course project is an open-ended research project in networking done in groups of one or two. We will provide a list of project ideas. We also highly encourage you to bring your own ideas.
+The course project is an open-ended research project in networking done in groups of two or three. We will provide a list of project ideas. We also highly encourage you to bring your own ideas.
 
 ***
 
@@ -40,7 +40,10 @@ Each project team is required to schedule a checkpoint meeting with the instruct
 ***  
 
 ### Final report and presentation
+Each project team is required to submit a final report and give a presentation at the end of the semester. 
+The final report should be 6 pages long.
 
+Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotnets/2024/docs/hotnets24-template.zip) for the final report.
 
 ***
 

@@ -34,7 +34,6 @@ computer networks or networked systems.
 * Data centers
 * Software-defined networking 
 * Programmable data plane
-* Emerging interconnects (e.g., CXL) 
 * ML for networking
 * Application-layer networking (e.g., Service mesh)
 * Cellular network architecture

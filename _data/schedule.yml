@@ -165,7 +165,7 @@
   - <a href="https://pdos.csail.mit.edu/papers/click:tocs00/paper.pdf">[R]Click</a>
   - <a href="https://dl.acm.org/doi/pdf/10.1145/1629575.1629578">[R]RouteBricks</a>
   - P&D 3.5.1
-  logistics:
+  presenters:
   - Vinay (Click)
   - David (RouteBricks)
 
@@ -181,7 +181,7 @@
   - <a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final96.pdf">[R]CoMb</a>
   - <a href="https://dl.acm.org/doi/pdf/10.1145/2342356.2342359">[O]APLOMB</a>
   - <a href="https://portal.etsi.org/nfv/nfv_white_paper.pdf">ESTI-WP</a>
-  logistics:
+  presenters:
   - Xiao (CoMb)
 
   logistics:
@@ -197,7 +197,7 @@
   readings:
   - <a href="http://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf">[R]RMT</a>
   - <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">[R]P4</a>
-  logistics:
+  presenters:
   - Jiahan (RMT)
   - Daehyeok (P4)
 

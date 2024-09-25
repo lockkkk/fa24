@@ -198,7 +198,7 @@
   video: 
   readings:
   - <a href="http://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf">[R]RMT</a>
-  - <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">[R]P4</a>
+  - <a href="https://dl.acm.org/doi/10.1145/2656877.2656890">[R]P4</a>
   presenters:
   - Jiahan (RMT)
   - Daehyeok (P4)

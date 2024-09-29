@@ -4,16 +4,16 @@ permalink: /logistics/
 title: Logistics
 ---
 
-* (The list will be replaced with the table of contents.)
-{:toc}
+- (The list will be replaced with the table of contents.)
+  {:toc}
 
-***
+---
 
 ### Communication
 
 [Ed discussion](https://edstem.org/us/courses/61972/) is intended for all announcements, general questions about the course, clarifications about assignments, student questions to each other, discussions about the material, and so on.
 
-***
+---
 
 ### Course Organization
 
@@ -38,30 +38,32 @@ three. A list of potential project ideas is [here](https://docs.google.com/docum
 You are required to submit a proposal and a final report. There will be a
 in-class final presentation.
 
-***
+---
 
 ### Grading
-* Paper reading response (20%)
-* In-class paper discussion leadership (20%)
-* Research project with a final presentation and report (50%)
-* In-class participation (10%)
-* Grades will be uploaded to [Canvas](https://utexas.instructure.com/courses/1402239).
+
+- Paper reading response (20%)
+- In-class paper discussion leadership (20%)
+- Research project with a final presentation and report (50%)
+- In-class participation (10%)
+- Grades will be uploaded to [Canvas](https://utexas.instructure.com/courses/1402239).
 
 #### Letter grade assignments
-* 100-93%: A
-* 92.99-90%: A-
-* 89.99-87%: B+
-* 86.99-83%: B
-* 82.99-80%: B-
-* 79.99-77%: C+
-* 76.99-73%: C
-* 72.99-70%: C-
-* 69.99-67%: D+
-* 66.99-63%: D
-* 62.99-60.01%: D-
-* 60-0%: F
 
-***
+- 100-93%: A
+- 92.99-90%: A-
+- 89.99-87%: B+
+- 86.99-83%: B
+- 82.99-80%: B-
+- 79.99-77%: C+
+- 76.99-73%: C
+- 72.99-70%: C-
+- 69.99-67%: D+
+- 66.99-63%: D
+- 62.99-60.01%: D-
+- 60-0%: F
+
+---
 
 ### Course Policies
 
@@ -92,9 +94,9 @@ approved accommodations and needs in this course.
 
 **Sharing of course materials is prohibited** <br/>
 No materials used in this class that are produced by the instructor or by
-students may be shared online or with anyone outside of the class without my written permission. 
+students may be shared online or with anyone outside of the class without my written permission.
 Unauthorized sharing of materials may
-facilitate cheating.  The University is aware of the sites used for sharing
+facilitate cheating. The University is aware of the sites used for sharing
 materials, and any materials found online that are associated with you or any
 suspected unauthorized sharing of materials will be reported to Student Conduct
 and Academic Integrity in the Office of the Dean of Students. These reports can

@@ -1,25 +1,25 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: 
+author:
 name: "CS 395T: Advanced Topics in Computer Networks"
 title: Advanced Topics in Computer Networks
-email: 
+email:
 description: >
   CS 395T - Advanced Topics in Computer Networks - The University of Texas at Austin - Fall 2024
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://utadvnetworks.github.io  # the base hostname & protocol for your site
+url: https://utadvnetworks.github.io # the base hostname & protocol for your site
 baseurl: "/" # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: 
+github_username:
 google_analytics:
 youtube_channel:
-rss:  # notes rss
+rss: # notes rss
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -34,17 +34,17 @@ paginate_path: /notes/page:num/
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: "Newer"
+    older: "Older"
 
 # Comments
 disqus_shortname: # put your disqus shortname
 
 # Optional features
-show_social_icons:  true
-enable_anchorjs:    true
-enable_latexjs:     true
-enable_katex:       true
+show_social_icons: true
+enable_anchorjs: true
+enable_latexjs: true
+enable_katex: true
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -67,14 +67,14 @@ markdown: kramdown
 highlighter: rouge
 
 # Includes & excludes
-include: ['_pages']
+include: ["_pages"]
 exclude: [vendor]
 
 # Plug-ins
 plugins:
-    - jekyll-email-protect
-    - jekyll-paginate
-    - jemoji
+  - jekyll-email-protect
+  - jekyll-paginate
+  - jemoji
 
 # -----------------------------------------------------------------------------
 # Other settings

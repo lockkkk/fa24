@@ -387,7 +387,9 @@
   slides:
   notes:
   video:
-  presenters: Daehyeok
+  presenters: 
+    - Joon Ha (Concordia)
+    - Daehyeok (CellBricks)
   readings:
     - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3472894">[R]Concordia</a>
     - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3473336">[R]CellBricks</a>

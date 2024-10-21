@@ -300,7 +300,7 @@
   video:
   readings:
     - <a href="https://www.mosharaf.com/wp-content/uploads/varys-sigcomm14.pdf">[R]CoFlow</a>
-    - <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2010/October/1851275-1851222.pdf">[O]c-Through</a>
+    - <a href="https://dl.acm.org/doi/10.1145/1851275.1851222">[O]c-Through</a>
   presenters:
     - David (CoFlow)
   logistics:

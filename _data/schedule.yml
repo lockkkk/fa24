@@ -340,8 +340,7 @@
   video:
   presenters: Daehyeok
   readings:
-    - <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf">[R]Arrakis</a>
-    - <a href="https://www.usenix.org/system/files/nsdi19-kalia.pdf">[R]eRPC</a>
+    - <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf">[R]IX</a>
   logistics:
 
 - date: Th 10/31

@@ -343,6 +343,7 @@
   presenters: Daehyeok
   readings:
     - <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf">[R]IX</a>
+    - <a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-jeong.pdf">[O]mTCP</a>
   logistics:
 
 - date: Th 10/31

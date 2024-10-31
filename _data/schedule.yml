@@ -365,7 +365,7 @@
     <strong>No Class (SOSP)</strong>
   logistics:
 
-- date: T 11/07
+- date: Th 11/07
   lecturer:
   quiz: >
     <strong>No Class (LDOS Workshop)</strong>
@@ -404,7 +404,7 @@
     - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3473336">[R]CellBricks</a>
   logistics:
 
-- date: Th 11/19
+- date: T 11/19
   lecturer:
   title: >
     <strong>Application-layer networking</strong>

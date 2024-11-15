@@ -396,15 +396,17 @@
   title: >
     <strong>Cellular network architecture</strong>
   recitation:
-  slides:
+  slides: https://drive.google.com/file/d/11SJogG-RzG49oJlruucNdyAxtMQmK1nC/view?usp=drive_link
+  slides2: https://drive.google.com/file/d/1P4YBHfBJKlBh0hz5n239GVTAdRAOG5uu/view?usp=drive_link
+  slides3: https://docs.google.com/presentation/d/10RV3axA-M4Sc9E5mNVJjVrEZ-55XpHyk0pMNn0VuekU/edit#slide=id.g314a4a75de5_0_70
   notes:
   video:
   presenters: 
-    - Joon Ha (Concordia)
     - Ingu (CellBricks)
+    - Joon Ha (Concordia)
   readings:
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3472894">[R]Concordia</a>
     - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3473336">[R]CellBricks</a>
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3472894">[R]Concordia</a>
   logistics:
 
 - date: T 11/19

@@ -4,14 +4,9 @@ permalink: /projects/
 title: Projects
 ---
 
-- (The list will be replaced with the table of contents.)
-  {:toc}
-
----
-
 ### Overview
 
-The course project is an open-ended research project in networking done in groups of two or three. We will provide a list of project ideas. We also highly encourage you to bring your own ideas.
+The course project is an open-ended research project in networking done in groups of 1-3 people. We will provide a list of project ideas. We also highly encourage you to bring your own ideas.
 
 ---
 
@@ -35,7 +30,7 @@ Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotn
 
 ### Midterm checkpoint meeting
 
-Each project team is required to schedule a checkpoint meeting with the instructor on Oct 25. The purpose of this meeting is to provide an early feedback on your progress to help ensure that your final report is great.
+Each project team is required to schedule a checkpoint meeting with the instructor on Oct 20. The purpose of this meeting is to provide an early feedback on your progress to help ensure that your final report is great.
 
 ---
 
@@ -50,7 +45,7 @@ Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotn
 
 ### Important dates
 
-- Proposal (2 pages): Sep 27.
-- In-class project presentation: Dec 3 and 5.
-- Final report (6 pages): Dec 6.
+- Proposal (2 pages): TBD
+- In-class project presentation: TBD
+- Final report (6 pages): TBD
 - Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotnets/2024/docs/hotnets24-template.zip) for the proposal and final report.

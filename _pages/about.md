@@ -1,54 +1,47 @@
 ---
 layout: about
 permalink: /
-title: Welcome to Adv. Topics in Computer Networks, Fall 2024 Edition!
-description: CS 395T Advanced Topics in Computer Networks - University of Texas at Austin
+title: Welcome to Data Center Networking Systems, Fall 2025!
+description: ECE 6960 Data Center Networking Systems - Cornell University
 logo:
 news: true
 ---
 
 ### Course Overview
 
-This is a graduate-level course on computer networking. In this course
-we will explore both classic and recent topics in computer networking. The
-objectives of this course are:
+This is a graduate-level course that covers advanced topics in data center networking systems. It explores the intersection of computer networking, computer systems, and computer architecture, emphasizing how these traditionally separate domains interact to support large-scale, high-performance communication infrastructures in modern data centers.
 
-- To understand the history of computer networking, state-of-the-art network protocols at various layers, network architectures, and networked systems.
-- To critically review research papers in computer networking and networked systems.
-- To explore research problems and investigate new ideas through a semester-long research project.
+The objectives of this course are:
 
-The course is structured around lectures by the instructor and paper
-readings/presentations by the students with open discussion. Students will form
-a project group (one or two students) and conduct a research project on
-computer networks or networked systems.
+- To understand state-of-the-art network protocols, modern network hardware, and large-scale communication systems.
+- Critically evaluate networking research papers and articulate well-informed perspectives and insights.
+-  Identify research problems in data-center communication protocols, systems stacks, and network hardware, and explore them through a semester-long project.
+
+The course is structured around lectures by the instructor and paper readings/presentations by the students with open discussion. Students will form a project group (1-3 students) and conduct a research project on networked systems.
 
 ### Reference books
 
 - [Computer Networks: Systems Approach](https://book.systemsapproach.org/){:target="\_blank"} (available online) by Larry Peterson and Bruce Davie
-- [Software-Defined Networks: A Systems Approach](https://sdn.systemsapproach.org/index.html){:target="\_blank"} (available online) by Larry Peterson, Carmelo Cascone, Brian O’Connor, Thomas Vachuska, and Bruce Davie
 
 ### Topics
+- Software Network Stacks (e.g., kernel-bypass networking)
+- Network Protocols and Transports (e.g., RDMA)
+- Programmable Network Devices (e.g., SmartNICs, Switches)
+- Interconnect technologies (e.g., PCIe, CXL, GPULinks)
+- Application-defined networking (e.g., ML, Mircoservices)
 
-- Network architectures
-- Inter-domain routing
-- Congestion control
-- Data centers
-- Software-defined networking
-- Programmable data plane
-- ML for networking
-- Application-layer networking (e.g., Service mesh)
-- Cellular network architecture
 
 ### Prerequisites
 
-- CS 356 (Computer Networks) or equivalent
+- No fixed prerequisites. 
+- Recommend knowledge of architecture/systems (e.g., ECE 4750/CS 4410), and/or knowledge of networks (CS 4450/ECE 4450).
 - C and Python programming experience
 
 ---
 
-- **Unique number:** 50875
-- **Time:** Tuesday & Thursday 3:30 PM - 5:00 PM
-- **Location:** GDC 1.406
-- **Discussion:** [Ed discussion](https://edstem.org/us/courses/61972){:target="\_blank"}
+- **Course number:** ECE 6960
+- **Time:** Monday & Wednesday 2:55-4:10 pm
+- **Location:** TBD
+- **Discussion:** TBD
 
 ---

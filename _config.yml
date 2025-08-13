@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 author:
-name: "CS 395T: Advanced Topics in Computer Networks"
-title: Advanced Topics in Computer Networks
+name: "ECE 6960: Data Center Networking Systems"
+title: Data Center Networking Systems
 email:
 description: >
-  CS 395T - Advanced Topics in Computer Networks - The University of Texas at Austin - Fall 2024
+  ECE 6960 - Data Center Networking Systems - Cornell University - Fall 2025
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://utadvnetworks.github.io # the base hostname & protocol for your site
-baseurl: "/" # the subpath of your site, e.g. /blog/
+url: https://lockkkk.github.io # the base hostname & protocol for your site
+baseurl: "/fa25/" # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration

@@ -1,15 +1,15 @@
 Instructors:
-  - name: Daehyeok Kim
-    email: daehyeok@utexas.edu
-    url: https://daehyeok.kim/
-    office-hours: Tue 5pm - 6pm
-    image: staff/daehyeok.jpg
-    location: GDC 6.824
-
-TAs:
   - name: Jiaxin Lin
-    email: jxlin@utexas.edu
-    url: https://lockkkk.github.io/
-    office-hours: Wed 4pm - 5pm
-    location: GDC 6.100 (Atrium Bridge)
+    email: jiaxinl@cornell.edu
+    url:  https://www.cs.utexas.edu/~jxlin/
+    office-hours: Mon 4:30pm - 5:30pm
     image: staff/jiaxin.jpg
+    location: Rhodes 319 
+
+# TAs:
+#   - name: Jiaxin Lin
+#     email: jxlin@utexas.edu
+#     url: https://lockkkk.github.io/
+#     office-hours: Wed 4pm - 5pm
+#     location: GDC 6.100 (Atrium Bridge)
+#     image: staff/jiaxin.jpg

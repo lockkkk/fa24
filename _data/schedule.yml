@@ -1,67 +1,36 @@
 - date:
   lecturer:
   title: >
-    <strong>Part 0: Introduction and Design Philosophy </strong>
+    <strong>Part 0: Introduction and Overview </strong>
   logistics:
 
-- date: T 08/27
+- date: M 08/25
   lecturer:
   title: >
-    <strong>Course overview & Intro to computer networks</strong>
-  slides: https://drive.google.com/file/d/1SHWyPbRa23UBGxUaFsBPE9vxeVihRcVs/view?usp=drive_link
+    <strong>Course overview</strong>
+  slides: TBD
+  video:
+  notes:
+  readings:
+  presenters:
+    - Jiaxin
+  logistics:
+
+- date: W 08/27
+  lecturer:
+  title: >
+    <strong>Intro to Data Center Networks</strong>
+  slides: 
   video:
   notes:
   readings:
     - <a href="http://ccr.sigcomm.org/online/files/p83-keshavA.pdf">HowToRead</a>
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/357401.357402">End-to-End Principle</a>
   presenters:
-    - Daehyeok
-  logistics:
-    - <a href="https://forms.gle/dKeVsvWynP1nx63x7">Fill out the survey</a> (by 08/30, Friday)
-- date: Th 08/29
-  lecturer:
-  title: >
-    <strong>Design principles</strong>
-  slides: https://drive.google.com/file/d/184ZPsbI0AtAPtO0yCuULEyId0C0xlVfY/view?usp=drive_link
-  video:
-  notes:
-  readings:
-    - <a href="http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf">[R]DesignPhilosophy</a>
-    - <a href="https://www.youtube.com/watch?v=qX-ojw1gLmE">[O]ClarkTalk</a>
-    - <a href="http://www0.cs.ucl.ac.uk/staff/M.Handley/papers/only-just-works.pdf">[O]WhyJustWork</a>
-    - P&D 1.3
-    - P&D 3.1-3.3
-  presenters:
-    - Daehyeok
+    - Jiaxin
   logistics:
 
-- date: T 09/03
-  lecturer:
-  title: >
-    <strong>End-to-end argument</strong>
-  recitation:
-  slides: https://drive.google.com/file/d/1SLTeKSbgad7fHw8A2HhFMxHQPGEn9Vz8/view?usp=drive_link
-  notes:
-  video:
-  presenters:
-    - Daehyeok
-  readings:
-    - <a href="https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf">[R]EndToEnd</a>
-  logistics:
-
-- date: Th 09/05
-  lecturer:
-  title: >
-    <strong>Presentations on project topics and Intro to BGP</strong>
-  recitation:
-  slides: https://drive.google.com/file/d/18uoPZwT2k9ltC4XotwbHkq3uwOJvvp6l/view?usp=drive_link
-  notes:
-  video:
-  readings:
-  logistics:
-  presenters:
-    - Daehyeok
-
-- date: T 09/10
+- date: M 09/01
   lecturer:
   quiz: >
     <strong>No Class</strong>
@@ -73,391 +42,350 @@
 - date:
   lecturer:
   title: >
-    <strong>Part 1: Control Plane</strong>
+    <strong>Part 1: Networking Stacks and Protocols</strong>
   logistics:
 
-- date: Th 09/12
+- date: W 09/03
   lecturer:
   title: >
-    <strong>Inter-domain routing</strong>
+    <strong>Kernel Networking</strong>
   recitation:
-  slides: https://drive.google.com/file/d/193EC9VigYKQSeso0cxQi_moMuXkUbhM3/view?usp=drive_link
-  slides2: https://docs.google.com/presentation/d/15WA2wxZKh80n5H25NG7B3_uEXBVXhrPGSX6hG3xRBQk/edit?usp=sharing
+  slides: TBD
+  notes:
+  video:
+  presenters:
+    - Jiaxin
+  readings:
+    - <a href="https://www.cs.cornell.edu/~ragarwal/pubs/network-stack.pdf">[R]Understand-kernel-stack</a>
+  logistics:
+
+- date: M 09/08
+  lecturer:
+  title: >
+    <strong>Kernel Networking (eBPF)</strong>
+  recitation:
+  slides: TBD
   notes:
   video:
   readings:
-    - <a href="https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/gao01.pdf">[R]Gao01</a>
-    - <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-fogel.pdf">[O]Batfish</a>
-    - <a href="http://nms.csail.mit.edu/6.829-f05/lectures/L4-routing.pdf">[O]MITLecNote</a>
-    - P&D 4.1
+      - <a href="TBD">[R]NetEdit</a>
+      - <a href="TBD">[R]eTran</a>
   logistics:
   presenters:
-    - Asmita (Gao01)
 
-- date: T 09/17
+- date: W 09/10
   lecturer:
   title: >
-    <strong>Software-defined networking</strong>
+    <strong>Intro to project topics & Cloudlab</strong>
   recitation:
-  slides: https://drive.google.com/file/d/1SPTll0n4L31e2p5JynlzSfx2UwFx9jRj/view?usp=drive_link
-  slides2: https://drive.google.com/file/d/1SRRGMunasZLBmTVbA78OPwhnqyx6p36Z/view?usp=drive_link
+  slides: TBD
   notes:
   video:
   readings:
-    - <a href="http://ccr.sigcomm.org/online/files/fp298-casado.pdf">[R]Ethane</a>
-    - <a href="http://ccr.sigcomm.org/online/files/p69-v38n2n-mckeown.pdf">[R]OpenFlow</a>
-    - <a href="https://youtu.be/YHeyuD89n1Y?si=4VpmTS1cD53fwoZq">[R]ShenkerTalk</a> (no review)
-    - <a href="https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf">[O]RoadToSDN</a>
-    - <a href="https://ccronline.sigcomm.org/wp-content/uploads/2019/10/acmdl19-347.pdf">[O]EthaneToSDN</a>
-    - SDN 1.1-1.3
   logistics:
   presenters:
-    - Sun (Ethane)
-    - Daehyeok (OpenFlow)
+    - Jiaxin
 
-- date: Th 09/19
+- date: M 09/15
   lecturer:
   title: >
-    <strong>SDN use case: Network virtualization</strong>
+    <strong>User-space Networking</strong>
   recitation:
-  slides: https://drive.google.com/file/d/19c7x2kaiOqdNzo8q7l1FYtpNbpwPbx37/view?usp=drive_link
-  slides2: https://docs.google.com/presentation/d/1wpsfdMtD03wEcY6uXDZ5UN3I5GOdAgRajlpfKxslA6s/edit#slide=id.p
-
+  slides: TBD
   notes:
   video:
   readings:
-    - <a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-koponen.pdf">[R]NVP</a>
-    - <a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf">[R]Andromeda</a>
-    - SDN 2.1
+      - <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf">[R]IX</a>
+      - <a href="https://dl.acm.org/doi/abs/10.1145/3341301.3359657">[O]snap</a>
   logistics:
   presenters:
-    - Gengcong (NVP)
-    - Ingu (Andromeda)
+
+- date: W 09/17
+  lecturer:
+  title: >
+    <strong>Transport Protocol</strong>
+  recitation:
+  slides: TBD
+  notes:
+  video:
+  readings:
+    - <a href="https://dl.acm.org/doi/10.1145/3387514.3406591">[R]Swift</a>
+    - <a href="https://research.google.com/pubs/archive/43840.pdf">[R]Timely</a>
+  logistics:
+  presenters:
+
+- date: M 09/22
+  lecturer:
+  title: >
+    <strong>RDMA</strong>
+  recitation:
+  slides: TBD
+  notes:
+  video:
+  readings:
+    - <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/lossless.pdf">[R]DCQCN</a>
+  logistics:
+  presenters:
+
 - date:
   lecturer:
   title: >
-    <strong>Part 2: Data Plane</strong>
+    <strong>Part 2: Programmable Network Hardware</strong>
   logistics:
 
-- date: T 09/24
+- date: W 09/24
   lecturer:
   title: >
-    <strong>Router design</strong>
+    <strong>FPGA NICs</strong>
   recitation:
-  slides: https://drive.google.com/file/d/1T5abWNOxA1LVzDL0vQvvaFyB9L4yV6FU/view?usp=drive_link
-  slides2: https://drive.google.com/file/d/1T5dwfZSKTr-ovTe12C-gw8rtloYkmLbT/view?usp=drive_link
-  notes:
-  video:
+  slides: TBD
   readings:
-    - <a href="http://tiny-tera.stanford.edu/~nickm/papers/cisco_fasts_wp.pdf">[R]McKeown97</a>
-    - <a href="https://youtu.be/pRJZE0C77SQ?si=RINcwe6SHF-Mqu_E">[R]ASICforNetEng</a> (no review)
-    - P&D 3.5.2
+    - <a href="https://www.usenix.org/system/files/nsdi18-chung.pdf">[R]AzureNIC</a>
+    - <a href="https://www.usenix.org/system/files/osdi20-lin.pdf">[R]PANIC</a>
   presenters:
-    - Shashank (McKeown97)
   logistics:
-    - Submit a proposal on Canvas
+    - Submit project proposal
 
-- date: Th 09/26
+- date: M 09/29
   lecturer:
   title: >
-    <strong>Software routers</strong>
+    <strong>SoC NICs</strong>
   recitation: 
-  slides: https://drive.google.com/file/d/1A2PwmKf5WrkYuxdbN6yjJJ1a2ZuZZDnb/view?usp=drive_link
-  slides2: https://drive.google.com/file/d/1A9-2P0_uMc0G3fdySS8XNzei6VO-hCPp/view?usp=drive_link
-  slides3: https://drive.google.com/file/d/1AA5iBGpYllghJiDFIgdjZP6UyFeymL50/view?usp=drive_link
+  slides: TBD
   notes: 
   video: 
   readings:
-    - <a href="https://pdos.csail.mit.edu/papers/click:tocs00/paper.pdf">[R]Click</a>
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/1629575.1629578">[R]RouteBricks</a>
-    - P&D 3.5.1
+    - <a href="https://homes.cs.washington.edu/~arvind/papers/ipipe.pdf">[R]iPipe</a>
+    - <a href="">[O]BF3</a> 
   presenters:
-    - Vinay (Click)
-    - David (RouteBricks)
+    - 
 
-- date: T 10/01
+- date: W 10/01
   lecturer:
   title: >
-    <strong>Middleboxes and NFV</strong>
+    <strong>Programmable Switches</strong>
   recitation:
-  slides: https://drive.google.com/file/d/1TOousPSDVFjsayLE2qjYsrykFISEkGod/view?usp=drive_link
-  slides2: https://drive.google.com/file/d/1TNsHVKQ-rucSLpAmTxAx0mU7-zK7B-8R/view?usp=drive_link 
+  slides: TBD
   notes:
   video:
   readings:
-    - <a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final96.pdf">[R]CoMb</a>
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/2342356.2342359">[O]APLOMB</a>
-    - <a href="https://portal.etsi.org/nfv/nfv_white_paper.pdf">ESTI-WP</a>
+    - <a href="https://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf">[R]RMT</a>
   presenters:
-    - Xiao (CoMb)
-
   logistics:
 
 - date: Th 10/03
   lecturer:
   title: >
-    <strong>Programmable switches and P4</strong>
+    <strong>TBD</strong>
   recitation:
-  slides: https://drive.google.com/file/d/1-5ryPuZ8tDaOKvfcyESS_U33x7kK7cS-/view?usp=drive_link
-  slides2: https://docs.google.com/presentation/d/1pULls1kjPuF6iwO_IkEbGPHuCxcYqwtpSmQInGgFCgk/edit
+  slides: 
   notes:
   video:
   readings:
-    - <a href="http://yuba.stanford.edu/~grg/docs/sdn-chip-sigcomm-2013.pdf">[R]RMT</a>
-    - <a href="https://dl.acm.org/doi/10.1145/2656877.2656890">[R]P4</a>
   presenters:
-    - Jiahan (RMT)
-    - Daehyeok (P4)
 
-- date: T 10/08
+- date: M 10/06
+  lecturer:
+  quiz: >
+    <strong>No Class</strong>
+  recitation:
+  notes:
+  video:
+  logistics:
+
+- date: W 10/08
+  lecturer:
+  quiz: >
+    <strong>No Class</strong>
+  recitation:
+  notes:
+  video:
+  logistics:
+
+- date: M 10/13
   lecturer:
   title: >
-    <strong>Applications on programmable switches</strong>
+    <strong>Network Device Programming</strong>
   recitation:
-  slides: https://drive.google.com/file/d/1-DTtCnL-NHqGDLzqPcx5R59JWzolvC4-/view?usp=drive_link
-  slides2: https://docs.google.com/presentation/d/1bOOZGAuqoMbHTHfs0Yhk9AFAYvmfDX3ZDyHm6vR7qHk/edit#slide=id.p
-  slides3: https://drive.google.com/file/d/1-H30lm78J8KMVl66U4gCLRx1K_T_5xp6/view?usp=drive_link
+  slides: TBD
   notes:
   video:
   readings:
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3132747.3132764">[R]NetCache</a>
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3230543.3230555">[R]Sonata</a>
+    - <a href="https://www.usenix.org/conference/nsdi25/presentation/lin-jiaxin">[R]Alkali</a>
+    - <a href="https://www.usenix.org/system/files/osdi20-brunella.pdf">[O]hXDP</a>
   logistics:
   presenters:
-    - Xiao (NetCache)
-    - Divya (Sonata)
-
-- date: Th 10/10
-  lecturer:
-  title: >
-    <strong>Smart NICs and applications</strong>
-  recitation:
-  slides: https://drive.google.com/file/d/1-kWWt41wWxRhrWXB5N1lxIFTVrVrUM3V/view?usp=drive_link
-  slides2: https://drive.google.com/file/d/1-sYywgk0giDii3CiljJRJMOY21vCLiml/view?usp=drive_link 
-  notes:
-  video:
-  presenters: Jiaxin
-  readings:
-    - <a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf">[R]AccelNet</a>
-    - <a href="https://homes.cs.washington.edu/~arvind/papers/ipipe.pdf">[R]iPipe</a>
-  logistics:
 
 - date:
   lecturer:
   title: >
-    <strong>Part 3: Resource Management</strong>
+    <strong>Part 3: Data Center Interconnects</strong>
   logistics:
 
-- date: T 10/15
+- date: W 10/15
   lecturer:
   title: >
-    <strong>Congestion control</strong>
+    <strong>PCIe and Device-Host Interface (1)</strong>
   recitation:
-  slides:
-    https://drive.google.com/file/d/101CRbi7O4_wfGD_gMVcR4ucTzDxm02sS/view?usp=drive_link
-  slides2:
-    https://drive.google.com/file/d/107QBf9I8h3I9i7RAcKbv_cHf6-xpA_FN/view?usp=drive_link
-  slides3:
-    https://docs.google.com/presentation/d/1Pip8W5LRCppTv1Nq4sRKn-3MjiEq9e-vOggxeYmunzY/edit
+  slides: TBD
   notes:
   video:
   readings:
-    - <a href="https://ee.lbl.gov/papers/congavoid.pdf">[R]VJ88</a>
-    - <a href="https://queue.acm.org/detail.cfm?id=3022184">[R]BBR</a>
-    - P&D 6.3
-  presenters:
-    - Vinay (VJ88)
-    - Chloe (BBR)
+    - <a href="https://www.cl.cam.ac.uk/research/srg/netos/projects/pcie-bench/neugebauer2018understanding.pdf">[R]UnderstandPCIe</a>
+    - <a href="https://dl.acm.org/doi/10.1145/3651890.3672271">[O]HostNet</a>
   logistics:
+  presenters:
 
-- date: Th 10/17
+- date: M 10/20
   lecturer:
   title: >
-    <strong>Router-based resource allocation</strong>
+    <strong>PCIe and Device-Host Interface (2)</strong>
   recitation:
-  slides: https://drive.google.com/file/d/1-8VK0kzvQbXbXQKSUoReQUM-3I20JDOr/view?usp=drive_link
-  slides2: https://docs.google.com/presentation/d/1qJN1BuWFwsMHaenomZAmwHU5uhIst6gcDR1QVNvmJ7g/edit#slide=id.g2fc75c4609f_0_171
-  slides3: https://docs.google.com/presentation/d/153vxoYVpkvpd9reUWal8KupQfVrmo_mTbKBEXlGfUsI/edit#slide=id.p 
+  slides: TBD
   notes:
   video:
   readings:
-    - <a href="https://cseweb.ucsd.edu/classes/wi01/cse222/papers/demers-fq-ire90.pdf">[R]FQ</a>
-    - <a href="http://web.mit.edu/pifo/pifo-sigcomm.pdf">[R]PIFO</a>
-    - P&D 6.1-6.2
+    - <a href="https://web.stanford.edu/class/cs244/papers/osdi23.pdf">[R]StreamingNIC</a>
+    - <a href="https://www.usenix.org/system/files/osdi24-skiadopoulos.pdf">[O]Zero-NIC</a>
   presenters:
-    - Asmita (FQ)
-    - Jiahan (PIFO)
-  logistics:
+  logistics: 
     - <a href="https://calendar.app.google/MWJCoUEJeWdQ6G3t7">Sign up</a> for a project milestone meeting
 
-- date: T 10/22
+- date: W 10/22
   lecturer:
   title: >
-    <strong>Data center scheduling</strong>
+    <strong>Memory-Cache Coherent Interconnects</strong>
   recitation:
-  slides: https://drive.google.com/file/d/1-GYzwGfU_lX113L3Brnmw-FGa_J_NTaj/view?usp=drive_link
-  slides2: https://drive.google.com/file/d/1-NieyFK9Ho6FeK6_EPzto6t6KB7GQj98/view?usp=drive_link
+  slides:  
   notes:
   video:
   readings:
-    - <a href="https://www.mosharaf.com/wp-content/uploads/varys-sigcomm14.pdf">[R]CoFlow</a>
-    - <a href="https://dl.acm.org/doi/10.1145/1851275.1851222">[O]c-Through</a>
+    - <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2022/10/Pond-ASPLOS23.pdf">[R]Pond</a>
+    - <a href="https://web.stanford.edu/class/cs244/papers/shuhasplos24.pdf">[O]CCNIC</a>
   presenters:
-    - David (CoFlow)
   logistics:
 
-- date: Th 10/24
+- date: M 10/27
   lecturer:
   title: >
-    <strong>Data center transport</strong>
+    <strong>Optical Interconnects</strong>
   recitation:
-  slides: https://drive.google.com/file/d/10LKd1kalN3jgHWTX6NwMuGmVSX4-kHGf/view?usp=drive_link
-  slides2: https://docs.google.com/presentation/d/1iCSoq5BZsNvL-c-1orGXTTHeC188Q6OU-63P8H1L8N8/edit
-  slides3: https://docs.google.com/presentation/d/1auNTdWjObcWQMz5C26ChDw13b5aXHrXNheNXhpxDdnM/edit#slide=id.p
+  slides: TBD
   notes:
   video:
   readings:
-  - <a href="https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf">[R]DCTCP</a>
-  - <a href="https://dl.acm.org/doi/pdf/10.1145/2740070.2626309">[R]FastPass</a>
-  - <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/rdma_sigcomm2016.pdf">[O]RoCEatScale</a>
-  - <a href="https://dlnext.acm.org/doi/pdf/10.1145/3341302.3342085">[O]HPCC</a>
+    - <a href="https://arxiv.org/pdf/2304.01433">[R]TPUv4</a>
   presenters:
-   - Chloe (DCTCP)
-   - FastPass (Saarth)
   logistics:
 
 - date:
   lecturer:
   title: >
-    <strong>Part 4: More Recent Topics</strong>
+    <strong>Part 4: Application-driven Networking Design</strong>
   logistics:
 
-- date: T 10/29
+- date: W 10/29
   lecturer:
   title: >
-    <strong>Kernel-bypass networking</strong>
+    <strong>ML-Networking (1)</strong>
   recitation:
-  slides: https://drive.google.com/file/d/1-V1o_02-NO2U0BiYgPSAUxSUPQbZRTGd/view?usp=drive_link
+  slides: 
   notes:
   video:
-  presenters: Daehyeok
-  readings:
-    - <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf">[R]IX</a>
-    - <a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-jeong.pdf">[O]mTCP</a>
-  logistics:
-
-- date: Th 10/31
-  lecturer:
-  title: >
-    <strong>Intra-host networking</strong>
-  recitation:
-  slides: https://drive.google.com/file/d/10nfQrK5MOB-RiMBVXrsdA20PIsT_gneJ/view?usp=drive_link
-  slides2: https://docs.google.com/presentation/d/10wFVbrcZQZ6fpYCsxaZiFp3NxQWAtDB7/edit?usp=drive_link&ouid=112410345759311102399&rtpof=true&sd=true
-  notes:
-  video:
-  presenters: Jiaxin
-  readings:
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3651890.3672271">[R]HostNet</a>
-  logistics:
-
-- date: T 11/05
-  lecturer:
-  quiz: >
-    <strong>No Class (SOSP)</strong>
-  logistics:
-
-- date: Th 11/07
-  lecturer:
-  quiz: >
-    <strong>No Class (LDOS Workshop)</strong>
-  logistics:
-
-- date: T 11/12
-  lecturer:
-  title: >
-    <strong>Generative AI for networking</strong>
-  recitation:
-  slides: https://drive.google.com/file/d/1-eyzl_VHBSZ6E-X9hH7PJsrPyv44qrKn/view?usp=drive_link
-  slides2: https://docs.google.com/presentation/d/11mCsV4DCRLY69svbcYxv_I2yumOrffojFJCNXDcemG8
-  slides3: https://docs.google.com/presentation/d/1tidnGGjw_hIkoCOsrHJOjvNMRv-ihldhS6xr3bEx8As
-  notes:
-  video:
-  readings:
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3544216.3544251">[R]NetShare</a>
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3651890.3672225">[R]Zoom2Net</a>
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3639037">[O]NetDiffusion</a>
   presenters:
-    - Divya (NetShare)
-    - Gengcong (Zoom2Net)
-  logistics:
-
-- date: Th 11/14
-  lecturer:
-  title: >
-    <strong>Cellular network architecture</strong>
-  recitation:
-  slides: https://drive.google.com/file/d/11SJogG-RzG49oJlruucNdyAxtMQmK1nC/view?usp=drive_link
-  slides2: https://drive.google.com/file/d/1P4YBHfBJKlBh0hz5n239GVTAdRAOG5uu/view?usp=drive_link
-  slides3: https://docs.google.com/presentation/d/10RV3axA-M4Sc9E5mNVJjVrEZ-55XpHyk0pMNn0VuekU/edit#slide=id.g314a4a75de5_0_70
-  notes:
-  video:
-  presenters: 
-    - Ingu (CellBricks)
-    - Joon Ha (Concordia)
   readings:
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3473336">[R]CellBricks</a>
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3452296.3472894">[R]Concordia</a>
+    - <a href="https://www.usenix.org/conference/nsdi24/presentation/rajasekaran">[R]Cassini</a>
   logistics:
 
-- date: T 11/19
+- date: M 11/03
   lecturer:
   title: >
-    <strong>Application-layer networking</strong>
+    <strong>ML-Networking (2)</strong>
   recitation:
-  slides: https://drive.google.com/file/d/12jJY0g_NvUVmSgYbbOZdwKcv79ErL8ZL/view?usp=drive_link
-  slides2: https://drive.google.com/file/d/12nganOTjK1ljjwNtthgr8IzahYgD4Z2F/view?usp=drive_link
+  slides: 
   notes:
   video:
+  presenters:
+  readings:
+    - <a href="https://dl.acm.org/doi/10.1145/3651890.3672233">[R]MetaRDMA</a>
+  logistics:
+
+- date: W 11/05
+  lecturer:
+  title: >
+    <strong>Mircoservice Service Mesh</strong>
+  recitation:
+  slides: 
+  notes:
+  video:
+  presenters:
   readings:
     - <a href="https://www.usenix.org/system/files/osdi23-saokar.pdf">[R]ServiceRouter</a>
+
+- date: M 11/10
+  lecturer:
+  title: >
+    <strong>Micorsecond-Scale RPC</strong>
+  recitation:
+  slides: 
+  notes:
+  video:
   presenters:
-    - Sun (ServiceRouter)
-  logistics:
+  readings:
+    - <a href="https://www.usenix.org/system/files/osdi20-scherer.pdf">[R]Ghost</a>
+    - <a href="https://www.usenix.org/system/files/nsdi19-ousterhout_0.pdf">[R]Shenango</a>
+    - <a href="https://www.usenix.org/system/files/nsdi19-kwon.pdf">[O]Shinjuku</a>
 
-- date:
+- date: W 11/12
   lecturer:
   title: >
-    <strong>Project Weeks</strong>
-  logistics:
-
-
-- date: Th 11/21
-  lecturer:
-  title: >
-    <strong>Working on projects (Office hour)</strong>
+    <strong>VM Networking</strong>
   recitation:
-  slides:
+  slides: 
   notes:
   video:
+  presenters:
   readings:
-  logistics:
+    - <a href="https://www.cs.cornell.edu/~ragarwal/pubs/picnic.pdf">[R]PICNIC</a>
+    - <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-pfaff.pdf">[O]OpenvSwitch</a>
 
-- date: T 11/26
+- date: M 11/17
+  lecturer:
+  title: >
+    <strong>Edge Networking</strong>
+  recitation:
+  slides: 
+  notes:
+  video:
+  presenters:
+  readings: TBD
+
+- date: W 11/19
+  lecturer:
+  title: >
+    <strong>Future networking Techniques (What's Next?)</strong>
+  logistics:
+  readings: TBD
+
+- date: M 11/24
   lecturer:
   quiz: >
-    <strong>No Class (Fall break)</strong>
+    <strong>Project Week</strong>
   logistics:
 
-- date: Th 11/28
+- date: W 11/26
   lecturer:
   quiz: >
-    <strong>No Class (Fall break)</strong>
+    <strong>No Class</strong>
+  recitation:
+  notes:
+  video:
   logistics:
 
-- date: T 12/03
+- date: M 12/01
   lecturer:
   title: >
-    <strong>Project presentation</strong>
+    <strong>Course Presentations</strong>
   recitation:
   slides:
   notes:
@@ -465,14 +393,13 @@
   readings:
   logistics:
 
-- date: Th 12/05
+- date: W 12/03
   lecturer:
   title: >
-    <strong>Project presentation</strong>
+    <strong>Course Presentations</strong>
   recitation:
   slides:
   notes:
   video:
   readings:
   logistics:
-    - Submit a report and slides on Canvas (by 12/6, Friday)

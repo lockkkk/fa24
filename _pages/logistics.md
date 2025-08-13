@@ -4,14 +4,10 @@ permalink: /logistics/
 title: Logistics
 ---
 
-- (The list will be replaced with the table of contents.)
-  {:toc}
+<!-- ### Communication
 
----
-
-### Communication
-
-[Ed discussion](https://edstem.org/us/courses/61972/) is intended for all announcements, general questions about the course, clarifications about assignments, student questions to each other, discussions about the material, and so on.
+TBD
+[Ed discussion](https://edstem.org/us/courses/61972/) is intended for all announcements, general questions about the course, clarifications about assignments, student questions to each other, discussions about the material, and so on. -->
 
 ---
 
@@ -19,24 +15,35 @@ title: Logistics
 
 **Paper reading response**
 <br/>
-The reading list is posted on the [schedule](/fa24/schedule) page. You are required to
-post a response to [Ed
-discussion](https://edstem.org/us/courses/61972/) by 11:59PM the day
-before the class. The response include a short summary of each paper, and your
-opinion of the paper.
+The reading list is posted on the [schedule](/fa25/schedule) page. You are required to
+post a response to [Discussion](TBD) by 11:59PM the day
+before the class. The response includes a short summary of each paper, and your
+opinion of the paper. Here’s an example outline:
+
+- What is the problem being solved?
+- Why is it a new/interesting problem?
+- What are the key technical insights of the solution?
+- What are a few potential limitations of the current solution?
+- What are a few potential next problems to be solved in this direction?
 
 **In-class paper discussion**
 <br/>
-You will lead the paper discussion in classes. Presentation slides are optional.
-Your goal is to keep the discussion moving along by providing necessary context
-and background of the paper.
+Students will take turns lead the paper discussion in classes. Presentation slides are encouraged.
+Student will keep the discussion moving along by providing necessary context
+and background of the paper. 
 
 **Research project**
 <br/>
-The course project is an open-ended research project, done in groups of two or
-three. A list of potential project ideas is [here](https://docs.google.com/document/d/1Xg-3SyGgReQNZsVCMINAjBHkuqiwNQ7Vx6vSeaeMNEc/edit?usp=sharing).
-You are required to submit a proposal and a final report. There will be a
-in-class final presentation.
+The course project is an open-ended research project, done in groups of one, two or
+three. A list of potential project ideas is [here](TBD). Students must provide following:
+
+- Project proposal: a 1–2 page description of the proposed problem, related work, and the solution idea. The proposal must also include a biweekly project timeline.
+
+- Midterm checkpoint: students will meet with the instructor to discuss the concrete research problem, technical details of relevant prior work, and progress to date. No written report is required.
+
+- Final report: a conference-style paper (use the provided template), e.g., with sections such as Introduction, Motivation, Related Work, Design, Implementation, and Evaluation for research-track submissions.
+
+The course will provide cloudlab resources for experiments, and students can also discuss with Jiaxin if they need help with accessing other hardware/software resources.
 
 ---
 
@@ -44,9 +51,9 @@ in-class final presentation.
 
 - Paper reading response (20%)
 - In-class paper discussion leadership (20%)
-- Research project with a final presentation and report (50%)
+- Research project with a final presentation and reports (50%)
 - In-class participation (10%)
-- Grades will be uploaded to [Canvas](https://utexas.instructure.com/courses/1402239).
+<!-- - Grades will be uploaded to [Canvas](https://utexas.instructure.com/courses/1402239). -->
 
 #### Letter grade assignments
 
@@ -68,11 +75,7 @@ in-class final presentation.
 ### Course Policies
 
 **Academic integrity** <br/>
-All material you submit in this course (reading responses, project reports, and
-presentation materials) must be your own. If you use someone else's material,
-you must cite them properly and clarify which parts are your own
-work. If you are ever in doubt about whether something you intend to submit
-violates this policy, please get in touch with the instructor before doing so.
+Each student in this course is expected to abide by the Cornell University Code of Academic Integrity. Any work submitted by a student in this course for academic credit will be the student's own work. The policy can be found on the university’s website here: https://theuniversityfaculty.cornell.edu/academic-integrity/  You are encouraged to study together and to discuss information and concepts covered in lecture and the sections with other students. You can give "consulting" help to or receive "consulting" help from such students. However, this permissible cooperation should never involve one student having possession of a copy of all or part of work done by someone else, in the form of an email, an e-mail attachment file, or a hard copy.  Should copying occur, both the student who copied work from another student and the student who gave material to be copied will both automatically receive a zero for the assignment. Penalty for violation of this Code can also be extended to include failure of the course and University disciplinary action
 
 **Excused absences and late submissions** <br/>
 If, for any reason, you need to miss class or the response deadline, be sure to get in touch with me as soon as possible and at least one week in advance (unless it is an
@@ -80,17 +83,7 @@ emergency). We will find a way to ensure your class participation and
 reading response grade won't be affected.
 
 **Services for students with disabilities** <br/>
-The university is committed to creating an accessible and inclusive learning
-environment consistent with university policy and federal and state law. Please
-let me know if you experience any barriers to learning so I can work with you to
-ensure you have equal opportunity to participate fully in this course. If you
-are a student with a disability or think you may have a disability and need
-accommodations, please get in touch with Disability and Access (D&A). Please refer to D&A’s
-website for contact and more information:
-[http://diversity.utexas.edu/disability/](http://diversity.utexas.edu/disability/).
-If you are already registered with D&A, please deliver your Accommodation
-Please let the instructor know as early as possible in the semester so we can discuss your
-approved accommodations and needs in this course.
+Your access in this course is important. Please give the instructor your Student Disability Services (SDS) accommodation letter early in the semester so that we have adequate time to arrange your approved academic accommodations. If you need an immediate accommodation for equal access, please speak with me after class or send an email message to me and/or SDS at sds_cu@cornell.edu. If the need arises for additional accommodations during the semester, please contact SDS. You may also feel free to speak with Student & Academic Affairs at Cornell Tech who will connect you with the university SDS office. 
 
 **Sharing of course materials is prohibited** <br/>
 No materials used in this class that are produced by the instructor or by

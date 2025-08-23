@@ -10,8 +10,10 @@ description: >
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://lockkkk.github.io # the base hostname & protocol for your site
-baseurl: "/fa25/" # the subpath of your site, e.g. /blog/
+# url: "https://www.csl.cornell.edu" # the base hostname & protocol for your site
+url: "lockhome.local" # the base hostname & protocol for your site -> for debug
+baseurl: "/~jiaxinl/ece6960/fa25/" # the subpath of your site, e.g. /blog/
+
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -68,13 +70,24 @@ highlighter: rouge
 
 # Includes & excludes
 include: ["_pages"]
-exclude: [vendor]
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - "*.sh"
 
 # Plug-ins
 plugins:
   - jekyll-email-protect
   - jekyll-paginate
   - jemoji
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
 
 # -----------------------------------------------------------------------------
 # Other settings
@@ -85,3 +98,4 @@ anchorjs_version: "3.2.2"
 latexjs_version: "0.11.1"
 
 theme: jekyll-theme-slate
+

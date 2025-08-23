@@ -32,6 +32,9 @@ Students will take turns lead the paper discussion in classes. Presentation slid
 Student will keep the discussion moving along by providing necessary context
 and background of the paper. 
 
+**Warmup Assignment**
+The goal of this warmup assignment is to familiarize you with CloudLab, so that you may use it as an experimentation platform for your research project. You will analyze the overheads of different network stacks (Linux's, RDMA, and DPDK) by measuring round-trip times (RTTs) and throughput between two servers.
+
 **Research project**
 <br/>
 The course project is an open-ended research project, done in groups of one, two or
@@ -39,7 +42,7 @@ three. A list of potential project ideas is [here](TBD). Students must provide f
 
 - Project proposal: a 1–2 page description of the proposed problem, related work, and the solution idea. The proposal must also include a biweekly project timeline.
 
-- Midterm checkpoint: students will meet with the instructor to discuss the concrete research problem, technical details of relevant prior work, and progress to date. No written report is required.
+- Midterm checkpoint: students will meet with the instructor to discuss the concrete research problem, and progress to date. No written report is required.
 
 - Final report: a conference-style paper (use the provided template), e.g., with sections such as Introduction, Motivation, Related Work, Design, Implementation, and Evaluation for research-track submissions.
 
@@ -50,9 +53,10 @@ The course will provide cloudlab resources for experiments, and students can als
 ### Grading
 
 - Paper reading response (20%)
-- In-class paper discussion leadership (20%)
-- Research project with a final presentation and reports (50%)
-- In-class participation (10%)
+- In-class paper presentation (15%)
+- Warmup assignment (10%)
+- Research project with a final presentation and reports (45%)
+- In-class discussion participation (10%)
 <!-- - Grades will be uploaded to [Canvas](https://utexas.instructure.com/courses/1402239). -->
 
 #### Letter grade assignments

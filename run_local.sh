@@ -1,2 +1,5 @@
 #!/bin/sh
-bundle exec jekyll serve 
+bundle exec jekyll serve --host lockhome.local
+
+# build
+# bundle exec jekyll build

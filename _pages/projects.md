@@ -22,15 +22,13 @@ Describe the project idea/application, how it relates to the course material, wh
 
 In your proposal, include three types of goals: 75% goals, 100% goals, and 125% goals. Think of these as the equivalent of a B, an A, and a "wow!" grade. The goals can be dependent or independent of the previous goals.
 
-Consider also providing answers to the [Heilmeier Questions](https://www.darpa.mil/work-with-us/heilmeier-catechism) in your proposal, as appropriate.
-
 Please use the ACM HotNets [Latex template](https://conferences.sigcomm.org/hotnets/2024/docs/hotnets24-template.zip) for the proposal.
 
 ---
 
 ### Midterm checkpoint meeting
 
-Each project team is required to schedule a checkpoint meeting with the instructor on Oct 20. The purpose of this meeting is to provide an early feedback on your progress to help ensure that your final report is great.
+Each project team is required to schedule a checkpoint meeting with the instructor. The purpose of this meeting is to provide an early feedback on your progress to help ensure that your final report is great.
 
 ---
 

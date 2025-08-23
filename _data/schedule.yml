@@ -195,15 +195,6 @@
 
 - date: W 10/08
   lecturer:
-  quiz: >
-    <strong>No Class</strong>
-  recitation:
-  notes:
-  video:
-  logistics:
-
-- date: M 10/13
-  lecturer:
   title: >
     <strong>Network Device Programming</strong>
   recitation:
@@ -213,6 +204,18 @@
   readings:
     - <a href="https://www.usenix.org/conference/nsdi25/presentation/lin-jiaxin">[R]Alkali</a>
     - <a href="https://www.usenix.org/system/files/osdi20-brunella.pdf">[O]hXDP</a>
+  logistics:
+  presenters:
+
+- date: M 10/13
+  lecturer:
+  title: >
+    <strong>Fall Break</strong>
+  recitation:
+  slides:
+  notes:
+  video:
+  readings:
   logistics:
   presenters:
 

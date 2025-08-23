@@ -38,10 +38,9 @@ The course is structured around lectures by the instructor and paper readings/pr
 - C and Python programming experience
 
 ---
-
 - **Course number:** ECE 6960
 - **Time:** Monday & Wednesday 2:55-4:10 pm
-- **Location:** TBD
-- **Discussion:** TBD
-
+- **Location:** Gates Hall 114
+- **Class Q&A:** ED Discussion 
+- **Assignment/Report/Paper Response Submission:** Canvas
 ---

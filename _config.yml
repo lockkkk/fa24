@@ -10,8 +10,8 @@ description: >
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-# url: "https://www.csl.cornell.edu" # the base hostname & protocol for your site
-url: "lockhome.local" # the base hostname & protocol for your site -> for debug
+url: "https://www.csl.cornell.edu" # the base hostname & protocol for your site
+# url: "lockhome.local" # the base hostname & protocol for your site -> for debug
 baseurl: "/~jiaxinl/ece6960/fa25/" # the subpath of your site, e.g. /blog/
 
 
